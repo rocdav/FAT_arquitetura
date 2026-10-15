@@ -1,12 +1,12 @@
-package org.example;
+package br.edu.fat.arquitetura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Main {
+public class FatArquiteturaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Main.class, args);
+        SpringApplication.run(FatArquiteturaApplication.class, args);
     }
 }
